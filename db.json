@@ -1,0 +1,124 @@
+{
+    "ingridients" : [
+        {
+            "id": 1,
+            "name" : "Пепперони",
+            "img" : "img/ingridients/$.jpg"
+        },
+        {
+            "id": 2,
+            "name" : "Моцарелла",
+            "img" : "img/ingridients/$.jpg"
+        },
+        {
+            "id": 3,
+            "name" : "Помидоры",
+            "img" : "img/ingridients/$.jpg"
+        },
+        {
+            "id": 4,
+            "name" : "Соус Барбекю",
+            "img" : "img/ingridients/$.jpg"
+        },
+        {
+            "id": 5,
+            "name" : "Соус Domino's",
+            "img" : "img/ingridients/$.jpg"
+        },
+        {
+            "id": 6,
+            "name" : "Кукуруза",
+            "img" : "img/ingridients/$.jpg"
+        },
+        {
+            "id": 7,
+            "name" : "Лук",
+            "img" : "img/ingridients/$.jpg"
+        },
+        {
+            "id": 8,
+            "name" : "Грибы",
+            "img" : "img/ingridients/$.jpg"
+        },
+        {
+            "id": 9,
+            "name" : "Колбаски баварские",
+            "img" : "img/ingridients/$.jpg"
+        },
+        {
+            "id": 10,
+            "name" : "Бергадер Блю",
+            "img" : "img/ingridients/$.jpg"
+        },
+        {
+            "id": 11,
+            "name" : "Соус Альфредо",
+            "img" : "img/ingridients/$.jpg"
+        },
+        {
+            "id": 12,
+            "name" : "Курица",
+            "img" : "img/ingridients/$.jpg"
+        },
+        {
+            "id": 13,
+            "name" : "Ананас",
+            "img" : "img/ingridients/$.jpg"
+        },
+        {
+            "id": 14,
+            "name" : "Бекон",
+            "img" : "img/ingridients/$.jpg"
+        },
+        {
+            "id": 15,
+            "name" : "Ветчина",
+            "img" : "img/ingridients/$.jpg"
+        },
+        {
+            "id": 16,
+            "name" : "Огурцы маринованные",
+            "img" : "img/ingridients/$.jpg"
+        },
+        {
+            "id": 17,
+            "name" : "Соус Чесночный",
+            "img" : "img/ingridients/$.jpg"
+        },
+        {
+            "id": 18,
+            "name" : "Оливки",
+            "img" : "img/ingridients/$.jpg"
+        },
+        {
+            "id": 19,
+            "name" : "Болгарский Перец",
+            "img" : "img/ingridients/$.jpg"
+        },
+        {
+            "id": 20,
+            "name" : "Соус Карри",
+            "img" : "img/ingridients/$.jpg"
+        },
+        {
+            "id": 21,
+            "name" : "Пармезан",
+            "img" : "img/ingridients/$.jpg"
+        },
+        {
+            "id": 22,
+            "name" : "Болгарский Перец",
+            "img" : "img/ingridients/$.jpg"
+        },
+        {
+            "id": 23,
+            "name" : "Болгарский Перец",
+            "img" : "img/ingridients/$.jpg"
+        },
+        {
+            "id": 24,
+            "name" : "Болгарский Перец",
+            "img" : "img/ingridients/$.jpg"
+        }
+    ]
+}
